@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cbc8f671-d991-4903-a3e1-c69187d1ad4f",
+    "title": "Remera Nike",
+    "description": "Remera Original",
+    "price": 2500
+  },
+  {
+    "id": "66506b1c-a0af-494e-b9c3-33d4ac4efa11",
+    "title": "Pantalon Adidas",
+    "description": "Pantalon Original",
+    "price": 5000
+  }
+]
