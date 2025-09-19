@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cbc8f671-d991-4903-a3e1-c69187d1ad4f",
+    "title": "Teclado Logitech v2",
+    "price": 5000,
+    "thumbnail": "/img/teclado.png"
+  },
+  {
+    "id": "66506b1c-a0af-494e-b9c3-33d4ac4efa11",
+    "title": "Mouse Redragon",
+    "price": 3500,
+    "thumbnail": "/img/mouse.png"
+  },
+  {
+    "id": "20aedd3b-a1b9-4dc9-a160-a679a4fa3bf0",
+    "title": "Auriculares Redragon",
+    "price": 7000,
+    "thumbnail": "/img/1758067459277-auriculares-redragon.jpg"
+  }
+]
